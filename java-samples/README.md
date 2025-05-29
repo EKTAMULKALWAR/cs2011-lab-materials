@@ -26,7 +26,9 @@ Expected output:
 Hello, World!
 ```
 
-# 📁 Example Files
-File Name	                 Description
-HelloWorld.java	          Basic program to print text
 
+## 📁 Example Files
+
+| File Name        | Description                  |
+|------------------|------------------------------|
+| `HelloWorld.java` | Basic program to print text  |
