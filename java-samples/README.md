@@ -10,8 +10,9 @@ Use the `javac` command to compile your Java file:
 
 ```bash
 javac HelloWorld.java
-This will create a HelloWorld.class file in the same folder.
 ```
+This will create a HelloWorld.class file in the same folder.
+
 ## ▶️ 2. Run the Java Program
 Use the java command without the .class extension:
 
