@@ -24,17 +24,19 @@ mkdir cs2011-lab
 cd cs2011-lab
 ```
 
-## 2. Basic Bash Commands
+## 🐚 2. Basic Bash Commands
 
-Command          	Description
-pwd	              Print current directory
-ls	              List files and folders
-cd foldername	    Change directory
-mkdir foldername	Make a new folder
-touch file.java	  Create a file
-cat file.java	    Show file contents
-mv a.java b.java	Rename or move a file
-rm file.java	    Delete a file
+| Command             | Description                     |
+|---------------------|---------------------------------|
+| `pwd`               | Print current directory         |
+| `ls`                | List files and folders          |
+| `cd foldername`     | Change directory                |
+| `mkdir foldername`  | Make a new folder               |
+| `touch file.java`   | Create a file                   |
+| `cat file.java`     | Show file contents              |
+| `mv a.java b.java`  | Rename or move a file           |
+| `rm file.java`      | Delete a file                   |
+
 
 ## ☕ 3. Install Java
 Option A: macOS with Homebrew
